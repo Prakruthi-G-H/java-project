@@ -4,7 +4,7 @@ Welcome to my collection of Java mini-projects! Each project is built using **Co
 
 ## 📁 Projects Included
 
-### 1. 🔐 [ATM Machine Using Java](https://github.com/Prakruthi-G-H/Java_Project/tree/main/ATM%20Machine%20Using%20Java)
+### 1. 🔐 [ATM Machine Using Java](https://github.com/Prakruthi-G-H/java-project/tree/main/atm-machine-using-java)
 A console-based ATM simulation where users can:
 - Check balance
 - Deposit money
