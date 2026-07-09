@@ -38,3 +38,13 @@ A simple 2-player terminal-based Tic Tac Toe game where players take turns marki
 cd "Java_Project/Tic Tac Toe Using Java"
 javac TicTacToe.java
 java TicTacToe
+```
+
+## 👩‍💻 Developed By
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
+
+
