@@ -9,7 +9,7 @@ A console-based ATM system that simulates basic banking operations.
 
 **✨ Features:**
 
-- Check balance
+- Check account balance
 - Deposit money
 - Withdraw money
 - Exit securely
