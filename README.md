@@ -12,7 +12,7 @@ A console-based ATM system that simulates basic banking operations.
 - Check account balance
 - Deposit money
 - Withdraw money with validation
-- Exit securely
+- Secure exit functionality
 
 **📌 Technologies Used**: Java (Core), OOP Concepts  
 **📂 Files**:
