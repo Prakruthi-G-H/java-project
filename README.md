@@ -5,7 +5,7 @@ This repository showcases a collection of Java-based mini projects built using C
 ## 📁 Projects Included
 
 ### 1. 🔐 [ATM Machine Using Java](https://github.com/Prakruthi-G-H/java-project/tree/main/atm-machine-using-java)
-A console-based ATM simulation where users can:
+A console-based ATM system that simulates basic banking operations.
 - Check balance
 - Deposit money
 - Withdraw money
