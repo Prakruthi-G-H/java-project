@@ -1,6 +1,6 @@
 # Java Projects 🚀
 
-Welcome to my collection of Java mini-projects! Each project is built using **Core Java concepts** and can be run directly from the terminal. This repository is perfect for beginners looking to understand Java through hands-on examples.
+This repository showcases a collection of Java-based mini projects built using Core Java and Object-Oriented Programming (OOP) concepts. These projects demonstrate problem-solving skills, logical thinking, and hands-on experience with real-world scenarios through console-based applications.
 
 ## 📁 Projects Included
 
