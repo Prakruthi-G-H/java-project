@@ -14,7 +14,10 @@ A console-based ATM system that simulates basic banking operations.
 - Withdraw money with validation
 - Secure exit functionality
 
-**📌 Technologies Used**: Java (Core), OOP Concepts  
+**📌 Technologies Used**: 
+ - Core Java  
+
+
 **📂 Files**:
 - `ATM.java`
 - `Bank.java`
