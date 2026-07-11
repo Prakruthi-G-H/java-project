@@ -15,7 +15,9 @@ A console-based ATM system that simulates basic banking operations.
 - Secure exit functionality
 
 **📌 Technologies Used**: 
- - Core Java  
+
+ - Core Java
+ - Object-Oriented Programming (OOP)
 
 
 **📂 Files**:
